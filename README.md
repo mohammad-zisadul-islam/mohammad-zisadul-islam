@@ -255,11 +255,11 @@
         <div class="t-out">{</div>
         <div><span style="padding-left:20px" class="t-key">"name"</span><span class="t-out">: </span><span class="t-val">"Mohammad Zisadul Islam"</span><span class="t-out">,</span></div>
         <div><span style="padding-left:20px" class="t-key">"role"</span><span class="t-out">: </span><span class="t-val">"SOC Analyst | Blue Team Junior Analyst"</span><span class="t-out">,</span></div>
-        <div><span style="padding-left:20px" class="t-key">"location"</span><span class="t-out">: </span><span class="t-val">"Golsan 2, Dhaka 1212, Bangladesh"</span><span class="t-out">,</span></div>
+        <div><span style="padding-left:20px" class="t-key">"location"</span><span class="t-out">: </span><span class="t-val">"TB Gate, Mohakhali, Dhaka 1212, Bangladesh"</span><span class="t-out">,</span></div>
         <div><span style="padding-left:20px" class="t-key">"email"</span><span class="t-out">: </span><span class="t-val">"jrzisad@gmail.com"</span><span class="t-out">,</span></div>
         <div><span style="padding-left:20px" class="t-key">"focus"</span><span class="t-out">: [</span><span class="t-val">"Threat Detection"</span><span class="t-out">, </span><span class="t-val">"SIEM Monitoring"</span><span class="t-out">, </span><span class="t-val">"Incident Response"</span><span class="t-out">],</span></div>
         <div><span style="padding-left:20px" class="t-key">"currently"</span><span class="t-out">: </span><span class="t-val">"Building open-source SOC lab · Learning DFIR"</span><span class="t-out">,</span></div>
-        <div><span style="padding-left:20px" class="t-key">"education"</span><span class="t-out">: </span><span class="t-val">"BSc CSE @ AIUB | Major: Security"</span></div>
+        <div><span style="padding-left:20px" class="t-key">"education"</span><span class="t-out">: </span><span class="t-val">"BSc CSE @ AIUB"</span></div>
         <div class="t-out">}</div>
         <br/>
         <div><span class="t-prompt">➜ </span><span class="t-cmd">echo $MISSION</span></div>
