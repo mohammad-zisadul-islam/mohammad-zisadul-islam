@@ -24,7 +24,7 @@
   "role"        : "SOC Analyst | Blue Team Junior Analyst",
   "location"    : "Dhaka 1212, Bangladesh",
   "email"       : "jrzisad@gmail.com",
-  "education"   : "BSc CSE @ AIUB ,
+  "education"   : "BSc in CSE @ AIUB" ,
   "focus"       : ["Threat Detection", "SIEM Monitoring", "Incident Response", "Log Analysis"],
   "currently"   : "Building open-source SOC lab · Practicing DFIR · Hunting IoCs",
   "mission"     : "Detect. Investigate. Contain. Harden. Repeat."
