@@ -22,9 +22,9 @@
 {
   "name"        : "Mohammad Zisadul Islam",
   "role"        : "SOC Analyst | Blue Team Junior Analyst",
-  "location"    : "TB Gate, Mohakhali, Dhaka 1212, Bangladesh",
+  "location"    : "Dhaka 1212, Bangladesh",
   "email"       : "jrzisad@gmail.com",
-  "education"   : "BSc CSE @ AIUB | Major: Network Security | CGPA: 3.54 / 4.0",
+  "education"   : "BSc CSE @ AIUB ,
   "focus"       : ["Threat Detection", "SIEM Monitoring", "Incident Response", "Log Analysis"],
   "currently"   : "Building open-source SOC lab · Practicing DFIR · Hunting IoCs",
   "mission"     : "Detect. Investigate. Contain. Harden. Repeat."
@@ -127,25 +127,6 @@ Passionate about **Blue Team operations** with a strong foundation in:
 | 🎯 | **Jr. Penetration Tester** | Byte Capsule IT | ✅ Active |
 | 📘 | **CompTIA Security+** | CompTIA | 🔄 Goal |
 
----
-
-## 🎓 Education
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓  BSc in Computer Science & Engineering       2022 – Running │
-│      American International University – Bangladesh (AIUB)      │
-│      Major: Network Security  |  CGPA: 3.54 / 4.0              │
-├─────────────────────────────────────────────────────────────────┤
-│  📘  Higher Secondary Certificate (HSC)                    2022 │
-│      Madinatul Ulum Model Institute Alim Madrasah, Bandarban    │
-│      GPA: 4.50 / 5.0                                           │
-├─────────────────────────────────────────────────────────────────┤
-│  📗  Secondary School Certificate (SSC)                    2020 │
-│      Madinatul Ulum Model Institute Alim Madrasah, Bandarban    │
-│      GPA: 4.68 / 5.0                                           │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
