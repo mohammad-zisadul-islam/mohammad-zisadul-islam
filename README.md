@@ -1,19 +1,24 @@
 ## MOHAMMAD ZISADUL ISALM
 
-- 🔭 I’m currently working on SOC Analyst and Engnniring 
-- 🌱 I’m currently learning Cyber Security of Defancive 
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with Beggainar 
-- 💬 Ask me about Him
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on SOC Analyst and Engnniring 
+- I’m currently learning Cyber Security of Defancive 
 
 
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Dedicated and detail-oriented Cybersecurity professional with hands-on 
+experience in Security Operations Center (SOC) environments. Proficient in 
+monitoring security alerts, analyzing logs, and investigating suspicious activities 
+using industry-standard open-source tools. Passionate about Blue Team 
+operations with a strong foundation in threat detection, incident response, and 
+defensive cybersecurity practices. Eager to contribute to a dynamic team while 
+continuously developing skills in the evolving cybersecurity landscape.
+
+
+
+
+SOC Analaytis | Log monitoring | Threat detection |  Indicator of attack | Indicator of compromise |  Incident Response | Malware analysis | Vulnerability Assessment | Jr. Penetration Tester | Network Engennear |
 
 
 ## 🌐 Socials:
