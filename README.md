@@ -173,7 +173,7 @@ Passionate about **Blue Team operations** with a strong foundation in:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://z-portfolio69.netlify.app/">
+<a href="https://jrzisad.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-00ffe1?style=for-the-badge&logo=netlify&logoColor=black" />
 </a>
 &nbsp;
